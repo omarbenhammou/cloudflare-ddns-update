@@ -19,7 +19,7 @@ This project automates the process of updating a Cloudflare DNS record with a dy
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cloudflare-ddns-update.git
+   git clone https://github.com/omarbenhammou/cloudflare-ddns-update.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
