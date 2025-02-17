@@ -19,7 +19,7 @@ This project automates the process of updating a Cloudflare DNS record with a dy
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/omarbenhammou/cloudflare-ddns-update.git
+   git clone https://github.com/YOUR_USERNAME/cloudflare-ddns-update.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -62,7 +62,7 @@ docker run -d --name cloudflare-ddns --restart=always cloudflare-ddns
 - Limit API token permissions to only necessary scopes (`Zone.DNS.Edit`).
 
 ## License 📜
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Zero (CC0)](LICENSE), allowing you to freely use, modify, and distribute without any restrictions.
 
 ## Contributions 🤝
 Feel free to open issues, suggest improvements, or submit pull requests!
@@ -70,3 +70,4 @@ Feel free to open issues, suggest improvements, or submit pull requests!
 ---
 
 ### 🌟 **Star this repo if you found it useful!** 🌟
+
